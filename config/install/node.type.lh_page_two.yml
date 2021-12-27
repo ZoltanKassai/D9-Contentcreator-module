@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - contentcreator
+name: 'LH Basic page two'
+type: lh_page_two
+description: 'How to create a custom content type programmatically using Configuration API.'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false

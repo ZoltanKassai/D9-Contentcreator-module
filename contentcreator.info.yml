@@ -1,0 +1,6 @@
+type: module
+name: Content creator
+description: "A module that creates two content types and attach a common field (programmatically)."
+package: LH
+core_version_requirement: ^8.8 || ^9
+php: 7.2
